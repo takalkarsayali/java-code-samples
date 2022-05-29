@@ -11,25 +11,28 @@ public class SimpleCalculator {
         int choice = sc.nextInt();
         switch(choice){
             case 1: 
-                System.out.print("Addition => ");
-                System.out.println(num1 + num2);
+                System.out.print("Addition => "+ (num1 + num2));
                 break;
             case 2: 
-                System.out.print("Subtraction => ");
-                System.out.println(num1 - num2);
+                System.out.print("Subtraction => " + (num1 - num2));
                 break;
             case 3: 
-                System.out.print("Multiplication => ");
-                System.out.println(num1 * num2);
+                System.out.print("Multiplication => "+ (num1 * num2));
                 break;
             case 4: 
-                System.out.print("Division => ");
-                System.out.println(num1 / num2);
-                break;
+            if(num2 == 0){
+                System.out.println("Invalid Division");
+            }else{
+                System.out.println("Division => "+ (num1 / num2));
+            }
+            break;
             case 5: 
-                System.out.print("Modulo => ");
-                System.out.println(num1 % num2);
-                break;
+            if(num2 == 0){
+                System.out.println("Invalid Division");
+            }else{
+                System.out.println("Division => "+ (num1 % num2));
+            }
+            break;
             }
     }
 }
