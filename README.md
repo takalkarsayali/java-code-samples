@@ -4,6 +4,5 @@ Java codes
 1. Advanced Patterns
 2. Basic Patterns
 3. examples of:<br>
-Conditional statements
-      ,loops
+Conditional statements, loops
       and many more...
