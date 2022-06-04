@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class print_all_even_nos {
+public class PrintAllEvenNos {
     public static void main(String args[]){
         //printing all even numbers till n
         Scanner sc = new Scanner(System.in);
