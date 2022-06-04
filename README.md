@@ -1,8 +1,10 @@
 # java-code-samples
-Java codes
+
+<br>Examples of:
 
 1. Advanced Patterns
 2. Basic Patterns
-3. examples of:<br>
-Conditional statements, loops
-      and many more...
+3. Basic Java
+4. Conditional Statments
+5. Functions
+6. Loops
