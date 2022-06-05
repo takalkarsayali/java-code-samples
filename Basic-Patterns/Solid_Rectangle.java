@@ -1,4 +1,14 @@
-import java.util.*;
+/*
+Printing following pattern:
+
+    * * * * * 
+    * * * * * 
+    * * * * * 
+    * * * * *
+
+*/
+
+import java.util.Scanner;
 public class Solid_Rectangle {
     public static void main (String[] args){
         System.out.println("---Printing Solid Rectangle---");

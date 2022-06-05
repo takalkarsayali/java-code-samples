@@ -1,4 +1,15 @@
-import java.util.*;
+/*
+Printing following pattern:
+n=5
+    * * * * * 
+    * * * * 
+    * * * 
+    * * 
+    * 
+
+*/
+
+import java.util.Scanner;
 public class Inverted_half_pyramid {
     public static void main (String args[]){
         Scanner sc = new Scanner(System.in);

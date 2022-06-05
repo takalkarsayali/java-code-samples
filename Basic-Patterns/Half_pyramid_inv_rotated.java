@@ -1,3 +1,15 @@
+/*
+Printing following pattern:
+n=5
+
+            *
+          * *
+        * * *
+      * * * *
+    * * * * *
+
+*/
+
 import java.util.Scanner;
 
 public class Half_pyramid_inv_rotated {

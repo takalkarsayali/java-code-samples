@@ -1,5 +1,6 @@
 /*
 Pyramid: 
+n=6
              * 
             * * 
            * * * 
@@ -7,7 +8,7 @@ Pyramid:
          * * * * * 
         * * * * * * 
 */
-import java.util.*;
+import java.util.Scanner;
 
 public class Pyramid {
 	public static void main(String args[]) {
