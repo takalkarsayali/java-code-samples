@@ -2,9 +2,11 @@
 
 <br>Examples of:
 
-1. Advanced Patterns
-2. Basic Patterns
-3. Basic Java
-4. Conditional Statments
-5. Functions
-6. Loops
+1. 1D Array
+2. 2D Array
+3. Advanced Patterns
+4. Basic Patterns
+5. Basic Java
+6. Conditional Statments
+7. Functions
+8. Loops
