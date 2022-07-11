@@ -9,4 +9,5 @@
 5. Basic Java
 6. Conditional Statments
 7. Functions
-8. Loops
+8. Jump statements
+9. Loops
